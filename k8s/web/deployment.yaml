@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: movies
-          image: jonathanlo55/rotten-potetoes:v2
+          image: jonathanlo55/rotten-potetoes
           ports:
             - containerPort: 5000
           env:
